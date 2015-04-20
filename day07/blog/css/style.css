@@ -1,0 +1,16 @@
+/*
+Students should write their own CSS later, 
+here are just a few starter styles to make it easier to read. 
+If there is a lot of time left at the end of class, 
+tell them to Work on styling this simple blog however they like. 
+*/
+html{
+	background-color: #2DBFD5;
+	font-family: sans-serif;
+}
+body{
+	background-color: white;
+	max-width: 60em;
+	margin: 0 auto;
+	padding:1em;
+}
